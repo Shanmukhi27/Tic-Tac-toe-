@@ -1,0 +1,65 @@
+input{
+  height: 80px;
+  width: 80px;
+  border-color: rgb(218, 204, 49);
+  background-color: rgb(15, 125, 11);
+  font-weight: bold;
+}
+
+.box{
+  margin-left: 42%;
+  margin-top: 2%;
+}
+.box button{
+  height: 40px;
+  width: 80px;
+  margin-top: 8px;
+  margin-left: 10%;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgb(15, 125, 11);
+  border-color:rgb(218, 204, 49) ;
+}
+
+.box input{
+  font-size: 46px;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(19, 5, 81);
+}
+
+h1{
+  text-align: center;
+  color:rgb(218, 204, 49) ;
+  font-size: 80px;
+}
+
+.replay{
+  margin-left: 90%;
+  background-color: rgb(218, 204, 49);
+  height: 20px;
+  width: 80px;
+  font-weight: bolder;
+  border-radius: 20px;
+}
+
+p{
+  color: rgb(149, 214, 236);
+}
+
+select{
+  background-color:rgb(15, 125, 11) ;
+}
+
+.select{
+  background-color:rgb(15, 125, 11);
+  margin-top: 2%;
+
+}
+label{
+  color: rgb(218, 204, 49);
+  margin-left: 85%;
+  
+}
